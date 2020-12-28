@@ -1,7 +1,20 @@
 {
   "name": "cra-template-react-ts-sass",
   "version": "1.0.0",
-  "description": "react with typescript and sass-modules",
+  "description": "cra template with typescript and sass-modules",
+  "keywords": [
+    "react",
+    "react-router",
+    "typescript",
+    "ts",
+    "create-react-app",
+    "cra",
+    "template",
+    "sass",
+    "scss"
+  ],
+  "homepage": "https://github.com/sarahkittyy/cra-template-react-ts-sass",
+  "repository": "github:sarahkittyy/cra-template-react-ts-sass",
   "main": "index.js",
   "author": "Sarah Ohlin <sarahohlin1@gmail.com> (https://github.com/sarahkittyy)",
   "license": "MIT"
