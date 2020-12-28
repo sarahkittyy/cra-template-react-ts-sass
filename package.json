@@ -1,0 +1,8 @@
+{
+  "name": "cra-template-react-ts-sass",
+  "version": "1.0.0",
+  "description": "react with typescript and sass-modules",
+  "main": "index.js",
+  "author": "Sarah Ohlin <sarahohlin1@gmail.com> (https://github.com/sarahkittyy)",
+  "license": "MIT"
+}
